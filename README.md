@@ -1,4 +1,6 @@
-# Project - landing page of the company "Dniproagro"
+# Landing page of the company "Dniproagro" with administrative panel. 
+
+Site is adapted for three devices (mobile. tablet and desktop).
 
 [Live Page](https://flourishing-praline-f430ab.netlify.app)
 
