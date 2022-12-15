@@ -1,4 +1,4 @@
-# Project - landing page of the company "Dniproagro"
+# Landing page of the company "Dniproagro"
 
 [Live Page](https://flourishing-praline-f430ab.netlify.app)
 
