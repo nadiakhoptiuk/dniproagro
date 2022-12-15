@@ -1,14 +1,12 @@
 # Проєкт - лендинг-пейдж компанії “Дніпроагро”
 
-[Жива сторінка](https://lucent-semolina-877c33.netlify.app/)
+[Жива сторінка](https://flourishing-praline-f430ab.netlify.app)
 
 ## Документація
 
 - [Інструкція до панелі адміністрування сайту 📋](https://docs.google.com/document/d/1IsV5rvIdjMkkSfQOK4i3L44yrl4Q4G6XDdmrQbsfnNk/edit)
 - [Технічне завдання](https://docs.google.com/document/d/1WxqV9AFPh-3syFsLfw851h3afJ9OKUFlsPjx04Esyt8/edit)
 - [SOW проєкту](https://docs.google.com/document/d/19mZTfzwKH_MBglOcRBnDRjmHvoLiJsG6Xn-rBrJeS3g/edit#heading=h.p2vkn19bsvqa)
-- [Після отримання хосту](README.steps.md)
-- [Google Maps API інструкція](README.map.md)
 
 ## Використані технології:
 
