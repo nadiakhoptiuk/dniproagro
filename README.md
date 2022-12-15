@@ -4,7 +4,7 @@
 
 ## Documentation
 
-- [Instructions for the site administration panel Netlify CMS 📋](https://docs.google.com/document/d/1IsV5rvIdjMkkSfQOK4i3L44yrl4Q4G6XDdmrQbsfnNk/edit)
+- [Instructions for the site administration panel Netlify CMS](https://docs.google.com/document/d/1IsV5rvIdjMkkSfQOK4i3L44yrl4Q4G6XDdmrQbsfnNk/edit)
 - [Technical task](https://docs.google.com/document/d/1WxqV9AFPh-3syFsLfw851h3afJ9OKUFlsPjx04Esyt8/edit)
 - [Project SOW](https://docs.google.com/document/d/19mZTfzwKH_MBglOcRBnDRjmHvoLiJsG6Xn-rBrJeS3g/edit#heading=h.p2vkn19bsvqa)
 
