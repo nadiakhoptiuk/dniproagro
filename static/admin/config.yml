@@ -406,7 +406,7 @@ collections:
     identifier_field: language
     description: 'Розділ "Персонал"'
     folder: 'content/personnel'
-    ccreate: false
+    create: false
     delete: false
     path: '{{language}}'
     sortable_fields: ['commit_date', 'title', 'language']
